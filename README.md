@@ -32,7 +32,6 @@
   <img align="center" alt="PowerShell" height="40" width="50" src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg">
 </div>
   
-    ##
   
   <div> 
   
