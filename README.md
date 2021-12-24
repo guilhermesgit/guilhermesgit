@@ -8,7 +8,7 @@
   <a href="https://github.com/guilhermesgit">
   <img align="center" alt="MCP" height="60" src="https://linuxsemfronteiras.com.br/wp-content/uploads/2017/07/LPIC-1-Large.png">
   <img align="center" alt="AZ900" height="90" src="https://ericsonf.com.br/wp-content/uploads/2020/01/AZ-900.png">
-  <img align="center" alt="OCIF" height="90" src="https://brm-workforce.oracle.com/pdf/certview/images/50_Oracle_Cloud_Infrastructure.png">
+  <img align="center" alt="OCFA" height="90" src="https://brm-workforce.oracle.com/pdf/certview/images/50_Oracle_Cloud_Infrastructure.png">
 </div>
 
   ##
