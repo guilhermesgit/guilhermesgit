@@ -9,6 +9,7 @@
   <img align="center" alt="MCP" height="60" src="https://linuxsemfronteiras.com.br/wp-content/uploads/2017/07/LPIC-1-Large.png">
   <img align="center" alt="AZ900" height="90" src="https://ericsonf.com.br/wp-content/uploads/2020/01/AZ-900.png">
   <img align="center" alt="OCFA" height="90" src="https://brm-workforce.oracle.com/pdf/certview/images/50_Oracle_Cloud_Infrastructure.png">
+   <img align="center" alt="OCFA" height="90" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/twitter_thumb_201604_image.png">
 </div>
 
   ##
