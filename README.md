@@ -29,7 +29,6 @@
   <img align="center" alt="Ansible" height="40" width="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg">
   <img align="center" alt="Terraform" height="40" width="50" src="https://github.com/benc-uk/icon-collection/blob/master/logos/terraform.svg">
   <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ubuntu" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="PowerShell" height="40" width="50" src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg">
 </div>
