@@ -1,13 +1,8 @@
-### Hi there!
+###  Olá. pessoal!
 
-- 🔭 I'm Guilherme and I've been working with IT Infrastructure and end-user support since 2007. I have experience with IT services management and support, IT Infrastructure Management, Networking, servers administration, and resource monitoring.
+- 🔭Sou um profissional de tecnologia especializando em Cloud AWS, com a mentalidade de automatizar tudo através de IAC (Infraestrutura como Código) utilizando Terraform e Ansible.
+- Lifelong learner.
 
-- ☁️ I'm currently studying to be specialized in Cloud Computing providers (Azure, AWS, GCP, OCI) and Infrastructure as a Code (Ansible/Terraform).
-
-<div align="center">
-<br><p align="centre"><b>Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{guilhermesgit}/count.svg" /></p> 
-<br></div>
 
   ##
 
@@ -18,20 +13,26 @@
 </div>
   
   ##
-<div style="display: inline_block"><br>
-  <img align="center" alt="Azure" height="40" width="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
-  <img align="center" alt="AWS" height="40" width="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
-  <img align="center" alt="GCP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
-  <img align="center" alt="Ansible" height="40" width="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg">
-  <img align="center" alt="Terraform" height="40" width="50" src="https://github.com/benc-uk/icon-collection/blob/master/logos/terraform.svg">
-  <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Ubuntu" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
-  <img align="center" alt="PowerShell" height="40" width="50" src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg">
-</div>
-  
+
   
   <div> 
-  
-  <a href="https://www.linkedin.com/in/guilhermeo-soares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   </div>
 
+<h3 align="left">Skills:</h3>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+
+</div>
+
+<div>
+  <h3 align="left">Linkedin:</h3>
+
+<a href="https://www.linkedin.com/in/guilhermeo-soares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<h3 align="left">Terraform registry:</h3>
+
+<a href="https://registry.terraform.io/namespaces/guilhermesgit" target="_blank"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/></a> 
+  
+</div>
